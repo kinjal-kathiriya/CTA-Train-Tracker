@@ -1,0 +1,560 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		C482EF1E2DBC12B50049DB2D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C482EEFF2DBC12B10049DB2D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C482EF062DBC12B10049DB2D;
+			remoteInfo = KinjalKCTATracker;
+		};
+		C482EF282DBC12B50049DB2D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C482EEFF2DBC12B10049DB2D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C482EF062DBC12B10049DB2D;
+			remoteInfo = KinjalKCTATracker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C4AC41D72DC0372200B414F7 /* KinjalKCTATracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = KinjalKCTATracker.app; path = "/Users/kinjalkathiriya/Desktop/KinjalKCTATracker/build/Debug-iphoneos/KinjalKCTATracker.app"; sourceTree = "<absolute>"; };
+		C4AC41D82DC0372200B414F7 /* KinjalKCTATrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = KinjalKCTATrackerTests.xctest; path = "/Users/kinjalkathiriya/Desktop/KinjalKCTATracker/build/Debug-iphoneos/KinjalKCTATracker.app/PlugIns/KinjalKCTATrackerTests.xctest"; sourceTree = "<absolute>"; };
+		C4AC41D92DC0372200B414F7 /* KinjalKCTATrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = KinjalKCTATrackerUITests.xctest; path = "/Users/kinjalkathiriya/Desktop/KinjalKCTATracker/build/Debug-iphoneos/KinjalKCTATrackerUITests-Runner.app/PlugIns/KinjalKCTATrackerUITests.xctest"; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		C482EF2F2DBC12B50049DB2D /* Exceptions for "KinjalKCTATracker" folder in "KinjalKCTATracker" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = C482EF062DBC12B10049DB2D /* KinjalKCTATracker */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		C482EF092DBC12B10049DB2D /* KinjalKCTATracker */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C482EF2F2DBC12B50049DB2D /* Exceptions for "KinjalKCTATracker" folder in "KinjalKCTATracker" target */,
+			);
+			path = KinjalKCTATracker;
+			sourceTree = "<group>";
+		};
+		C482EF202DBC12B50049DB2D /* KinjalKCTATrackerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KinjalKCTATrackerTests;
+			sourceTree = "<group>";
+		};
+		C482EF2A2DBC12B50049DB2D /* KinjalKCTATrackerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KinjalKCTATrackerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C482EF042DBC12B10049DB2D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF1A2DBC12B50049DB2D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF242DBC12B50049DB2D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C482EEFE2DBC12B10049DB2D = {
+			isa = PBXGroup;
+			children = (
+				C482EF092DBC12B10049DB2D /* KinjalKCTATracker */,
+				C482EF202DBC12B50049DB2D /* KinjalKCTATrackerTests */,
+				C482EF2A2DBC12B50049DB2D /* KinjalKCTATrackerUITests */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C482EF062DBC12B10049DB2D /* KinjalKCTATracker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C482EF302DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATracker" */;
+			buildPhases = (
+				C482EF032DBC12B10049DB2D /* Sources */,
+				C482EF042DBC12B10049DB2D /* Frameworks */,
+				C482EF052DBC12B10049DB2D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C482EF092DBC12B10049DB2D /* KinjalKCTATracker */,
+			);
+			name = KinjalKCTATracker;
+			packageProductDependencies = (
+			);
+			productName = KinjalKCTATracker;
+			productReference = C4AC41D72DC0372200B414F7 /* KinjalKCTATracker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C482EF1C2DBC12B50049DB2D /* KinjalKCTATrackerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C482EF352DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATrackerTests" */;
+			buildPhases = (
+				C482EF192DBC12B50049DB2D /* Sources */,
+				C482EF1A2DBC12B50049DB2D /* Frameworks */,
+				C482EF1B2DBC12B50049DB2D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C482EF1F2DBC12B50049DB2D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C482EF202DBC12B50049DB2D /* KinjalKCTATrackerTests */,
+			);
+			name = KinjalKCTATrackerTests;
+			packageProductDependencies = (
+			);
+			productName = KinjalKCTATrackerTests;
+			productReference = C4AC41D82DC0372200B414F7 /* KinjalKCTATrackerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C482EF262DBC12B50049DB2D /* KinjalKCTATrackerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C482EF382DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATrackerUITests" */;
+			buildPhases = (
+				C482EF232DBC12B50049DB2D /* Sources */,
+				C482EF242DBC12B50049DB2D /* Frameworks */,
+				C482EF252DBC12B50049DB2D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C482EF292DBC12B50049DB2D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C482EF2A2DBC12B50049DB2D /* KinjalKCTATrackerUITests */,
+			);
+			name = KinjalKCTATrackerUITests;
+			packageProductDependencies = (
+			);
+			productName = KinjalKCTATrackerUITests;
+			productReference = C4AC41D92DC0372200B414F7 /* KinjalKCTATrackerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C482EEFF2DBC12B10049DB2D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					"CTA Tracker",
+				);
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					C482EF062DBC12B10049DB2D = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					C482EF1C2DBC12B50049DB2D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = C482EF062DBC12B10049DB2D;
+					};
+					C482EF262DBC12B50049DB2D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = C482EF062DBC12B10049DB2D;
+					};
+				};
+			};
+			buildConfigurationList = C482EF022DBC12B10049DB2D /* Build configuration list for PBXProject "KinjalKCTATracker" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C482EEFE2DBC12B10049DB2D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C482EEFE2DBC12B10049DB2D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C482EF062DBC12B10049DB2D /* KinjalKCTATracker */,
+				C482EF1C2DBC12B50049DB2D /* KinjalKCTATrackerTests */,
+				C482EF262DBC12B50049DB2D /* KinjalKCTATrackerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C482EF052DBC12B10049DB2D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF1B2DBC12B50049DB2D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF252DBC12B50049DB2D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C482EF032DBC12B10049DB2D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF192DBC12B50049DB2D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C482EF232DBC12B50049DB2D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C482EF1F2DBC12B50049DB2D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C482EF062DBC12B10049DB2D /* KinjalKCTATracker */;
+			targetProxy = C482EF1E2DBC12B50049DB2D /* PBXContainerItemProxy */;
+		};
+		C482EF292DBC12B50049DB2D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C482EF062DBC12B10049DB2D /* KinjalKCTATracker */;
+			targetProxy = C482EF282DBC12B50049DB2D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C482EF312DBC12B50049DB2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KinjalKCTATracker/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C482EF322DBC12B50049DB2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KinjalKCTATracker/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C482EF332DBC12B50049DB2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C482EF342DBC12B50049DB2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C482EF362DBC12B50049DB2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATrackerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KinjalKCTATracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KinjalKCTATracker";
+			};
+			name = Debug;
+		};
+		C482EF372DBC12B50049DB2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATrackerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KinjalKCTATracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KinjalKCTATracker";
+			};
+			name = Release;
+		};
+		C482EF392DBC12B50049DB2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATrackerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = KinjalKCTATracker;
+			};
+			name = Debug;
+		};
+		C482EF3A2DBC12B50049DB2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kkathir1.KinjalKCTATrackerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = KinjalKCTATracker;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C482EF022DBC12B10049DB2D /* Build configuration list for PBXProject "KinjalKCTATracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C482EF332DBC12B50049DB2D /* Debug */,
+				C482EF342DBC12B50049DB2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C482EF302DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C482EF312DBC12B50049DB2D /* Debug */,
+				C482EF322DBC12B50049DB2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C482EF352DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATrackerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C482EF362DBC12B50049DB2D /* Debug */,
+				C482EF372DBC12B50049DB2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C482EF382DBC12B50049DB2D /* Build configuration list for PBXNativeTarget "KinjalKCTATrackerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C482EF392DBC12B50049DB2D /* Debug */,
+				C482EF3A2DBC12B50049DB2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C482EEFF2DBC12B10049DB2D /* Project object */;
+}
